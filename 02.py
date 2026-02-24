@@ -1,0 +1,1 @@
+print('vkmJxcmvmnc m  ,bccc nn')
