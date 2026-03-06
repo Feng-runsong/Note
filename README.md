@@ -1,4 +1,6 @@
 # Note
 用来储存学习笔记和任务
-\ncode文件夹用于存放任务代码
+code文件夹用于存放任务代码
 note文件夹用于存放笔记
+introduction用于存放个人简介
+record用于存放总结
